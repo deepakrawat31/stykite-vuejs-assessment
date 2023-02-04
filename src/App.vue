@@ -101,7 +101,7 @@
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-plus"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
           </span>
         </div>
-        <div class="w-full">
+        <div class="w-full mb-20 lg:mb-0">
           <button class="flex items-center justify-center py-4 px-12 font-bold text-lg bg-orange-500 shadow-orange-200 shadow-xl hover:shadow-none text-slate-100 rounded-xl hover:bg-orange-100 hover:text-orange-500 transition-colors ease-in w-full" @click="turnzero()">
             <span class="pr-4">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-shopping-cart"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>

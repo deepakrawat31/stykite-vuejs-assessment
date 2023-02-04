@@ -1,0 +1,1 @@
+# stykite-vuejs-assessment
